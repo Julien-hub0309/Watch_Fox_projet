@@ -18,10 +18,16 @@ Watch_dogs_projet/
 ## Installation : 
 
 git clone https://github.com/Julien-hub0309/Watch_dogs_projet.git
+
 cd Watch_dogs_projet
-pip install requests phonenumbers dnspython rich
+
+pip install requests 
+pip install phonenumbers 
+pip install dnspython 
+pip install rich
 
 ## Utilisation : 
 
 cd Watch_dogs_projet
+
 python3 main.py 
