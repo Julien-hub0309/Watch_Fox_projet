@@ -1,4 +1,25 @@
+# HTTP & Réseau
 requests
-phonenumbers
+urllib3
 dnspython
-rich
+
+# Parsing HTML
+beautifulsoup4
+
+# Données système
+psutil
+
+# Numéros de téléphone
+phonenumbers
+
+# Images & Métadonnées
+Pillow
+hachoir
+
+# IA / Détection de texte généré
+torch
+transformers
+
+# (stdlib, pas besoin d'installer)
+# socket, hashlib, math, secrets, string, platform,
+# subprocess, os, re, base64, json, itertools
