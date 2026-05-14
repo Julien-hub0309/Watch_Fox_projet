@@ -32,13 +32,43 @@ git clone https://github.com/Julien-hub0309/Watch_dogs_projet.git
 
 cd Watch_dogs_projet
 
-pip install requests
-
-pip install phonenumbers 
-
-pip install dnspython 
+# Pour l'interface graphique du terminal
 
 pip install rich
+
+# Pour le réseau, le web et les requêtes HTTP
+
+pip install requests
+
+pip install urllib3
+
+pip install dnspython
+
+pip install scapy
+
+# Pour le scraping de données HTML
+
+pip install beautifulsoup4
+
+# Pour la gestion des images et des métadonnées
+
+pip install Pillow
+
+pip install hachoir
+
+# Pour la forensique (systèmes de fichiers)
+
+pip install pytsk3
+
+# Pour la validation et l'analyse des numéros de téléphone
+
+pip install phonenumbers
+
+# Pour l'Intelligence Artificielle (Modèles de langage GPT-2)
+
+pip install torch
+
+pip install transformers
 
 ### Termux : 
 
@@ -52,13 +82,43 @@ git clone https://github.com/Julien-hub0309/Watch_dogs_projet.git
 
 cd Watch_dogs_projet
 
-pip install requests
-
-pip install phonenumbers 
-
-pip install dnspython 
+# Pour l'interface graphique du terminal
 
 pip install rich
+
+# Pour le réseau, le web et les requêtes HTTP
+
+pip install requests
+
+pip install urllib3
+
+pip install dnspython
+
+pip install scapy
+
+# Pour le scraping de données HTML
+
+pip install beautifulsoup4
+
+# Pour la gestion des images et des métadonnées
+
+pip install Pillow
+
+pip install hachoir
+
+# Pour la forensique (systèmes de fichiers)
+
+pip install pytsk3
+
+# Pour la validation et l'analyse des numéros de téléphone
+
+pip install phonenumbers
+
+# Pour l'Intelligence Artificielle (Modèles de langage GPT-2)
+
+pip install torch
+
+pip install transformers
 
 
 ### Windows : 
